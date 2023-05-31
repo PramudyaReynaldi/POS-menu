@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Mie Ayam",
+            "price": 12000,
+            "image": "https://cdn.pixabay.com/photo/2020/06/02/12/20/soup-5250765_960_720.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Ayam Goreng",
+            "price": 15000,
+            "image": "https://cdn.pixabay.com/photo/2015/03/11/00/31/chicken-667935_960_720.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Cumi Goreng",
+            "price": 18000,
+            "image": "https://cdn.pixabay.com/photo/2016/03/21/00/08/deep-fried-1269736_960_720.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Kentang Goreng",
+            "price": 10000,
+            "image": "https://cdn.pixabay.com/photo/2016/11/20/09/06/bowl-1842294_960_720.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Pempek",
+            "price": 10000,
+            "image": "https://cdn.pixabay.com/photo/2022/09/16/02/41/crunchy-7457643_960_720.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Lemon Tea",
+            "price": 8000,
+            "image": "https://cdn.pixabay.com/photo/2017/04/11/03/52/tea-2220485_960_720.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Lychee Tea",
+            "price": 10000,
+            "image": "https://cdn.pixabay.com/photo/2022/11/07/04/58/fresh-fruit-tea-7575609_960_720.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Nasi Putih",
+            "price": 5000,
+            "image": "https://cdn.pixabay.com/photo/2016/08/10/12/35/plain-cooked-rice-1583098_960_720.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Ikan Bakar",
+            "price": 22000,
+            "image": "https://cdn.pixabay.com/photo/2013/06/13/14/17/fish-139162_960_720.jpg"
+        }
+
+        
+    ] 
+}
